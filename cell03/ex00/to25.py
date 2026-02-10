@@ -1,0 +1,4 @@
+num = int(input("Enter a number less than 25\n"))
+while num <= 25:
+    print(f"Inside the loop, my variable is {num}")
+    num+=1
